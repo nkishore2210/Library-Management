@@ -31,7 +31,7 @@ Star UML
 
 ![image](https://github.com/nkishore2210/Library-Management/assets/118707090/6497b380-95fe-4b76-83ac-2d4ed53d616c)
 
-##CLASS DIAGRAM:
+## CLASS DIAGRAM:
 
 ![image](https://github.com/nkishore2210/Library-Management/assets/118707090/a295a64e-a9eb-4885-80ed-b9ab1e0468ce)
 
