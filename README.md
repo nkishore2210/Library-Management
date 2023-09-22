@@ -41,8 +41,6 @@ Star UML
 
 ## STATE CHART DIAGRAM:
 
-![WhatsApp Image 2023-09-22 at 14 42 17](https://github.com/nkishore2210/Library-Management/assets/118707090/98a26a2b-ceb0-4fa1-9635-28c2c59f1d1c)
-
 ## PACKAGE DIAGRAM:
 
 ![image](https://github.com/nkishore2210/Library-Management/assets/118707090/f042924d-c8cc-4273-9dbb-e68ca0f1eb23)
